@@ -1,5 +1,5 @@
-# Artigos úteis para o desenvolvimento de apps Android 📚 ✅ 🚀
-#### Uma coleção de links com artigos úteis para estudo ou referências de conteúdos diversos do desenvolvimento Android.
+# Páginas e artigos úteis para o desenvolvimento de apps Android 📚 ✅ 🚀
+#### Uma coleção de links com páginas e artigos úteis para estudo ou referências de conteúdos diversos do desenvolvimento Android.
 
 --------
 
