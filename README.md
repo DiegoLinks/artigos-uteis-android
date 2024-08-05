@@ -22,3 +22,5 @@
 **[Kotlin Scope Functions](https://kotlinlang.org/docs/scope-functions.html)**
   - Documentação sobre as Scope Functions do Kotlin (conteúdo em inglês).
 
+**[Requisitos para rodar o Android Studio](https://developer.android.com/studio/install?hl=pt-br&_gl=1*1g6m8sp*_up*MQ..&gclid=Cj0KCQjw8MG1BhCoARIsAHxSiQlLKOQQ9xH3XLiQ7Tuxg-VHryQJTDjgTlV2-S5y14Xa_Os3P0wkjNYaAj57EALw_wcB&gclsrc=aw.ds)**
+  - Requisitos mínimos/recomendados de máquina pra rodar o Android Studio (Windows, Mac e Linux).
